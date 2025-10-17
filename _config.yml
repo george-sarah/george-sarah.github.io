@@ -49,7 +49,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : ""
+  bluesky          :
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : sarah-george-b0746a195
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
