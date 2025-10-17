@@ -28,7 +28,7 @@ author:
   pronouns         : #"she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Berlin, Germany"
-  employer         : "Leibniz Institute for Educational Trajectories"
+  employer         : "Leibniz Institute for<br>Educational Trajectories"
   uri              : # URL
   email            : "sarah.george@wzb.eu"
 
