@@ -36,7 +36,7 @@ author:
   academia         : # URL
   googlescholar    : "https://scholar.google.com/citations?user=oPB5PqUAAAAJ&hl=de"
   orcid            : ""
-  LinkedIn         : "https://www.linkedin.com/in/sarah-george-b0746a195/"
+  LinkedIn         : "sarah-george-b0746a195"
   researchgate     : "https://www.researchgate.net/profile/Sarah-George-39?ev=hdr_xprf"
 
   # Repositories and software development
@@ -49,7 +49,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : ""
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
