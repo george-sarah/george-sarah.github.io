@@ -11,6 +11,8 @@ I’m Sarah George, a postdoctoral researcher at the Leibniz Institute for Educa
 
 As part of the UneTra 2025 project, I examine how the spatial distribution of refugees within local neighborhoods in Germany affects their educational trajectories and integration.
 
+Check out my full CV [here](https://george-sarah.github.io/files/CV_george.pdf).
+
 For collaboration and press inquiries, freel free to drop me an [email](mailto: sarah.george@wzb.eu).
 
 ======
