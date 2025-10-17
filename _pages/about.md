@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m Sarah George, a postdoctoral researcher at the Leibniz Institute for Educational Trajectories (LIfBi) and the [WZB Berlin Social Science Center](https://www.wzb.eu/de/personen/sarah-george). My research focuses on urban inequalities, including segregation and gentrification, with a particular emphasis on ethnic inequalities. As part of the [UneTra](https://unetra.wzb.eu/) project, I examine how the spatial distribution of refugees within local neighborhoods in Germany affects their educational trajectories and integration.
+I’m Sarah George, a postdoctoral researcher at the Leibniz Institute for Educational Trajectories (LIfBi) and the [WZB Berlin Social Science Center](https://www.wzb.eu/de/personen/sarah-george). As part of the [UneTra](https://unetra.wzb.eu/) project, I examine how the spatial distribution of refugees within local neighborhoods in Germany affects their educational trajectories and integration.
 
 Previously, I completed my PhD at the Berlin Social Science Center and the University of Hamburg. During my doctoral studies, I also had the opportunity to be a visiting researcher at Harvard University. 
 
