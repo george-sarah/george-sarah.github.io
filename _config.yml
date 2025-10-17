@@ -23,14 +23,14 @@ repository               : "george-sarah/george-sarah.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "George_foto.jpg"
+  avatar           : "George_foto.png"
   name             : "Sarah George"
   pronouns         : #"she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Berlin, Germany"
   employer         : "Leibniz Institute for Educational Trajectories"
   uri              : # URL
-  email            : "sarah.george@wzb.eu" 
+  email            : "sarah.george@wzb.eu"
 
   # Academic websites
   academia         : # URL
