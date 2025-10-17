@@ -26,7 +26,7 @@ author:
   avatar           : "George_foto.png"
   name             : "Sarah George"
   pronouns         : #"she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : " "
   location         : "Berlin, Germany"
   employer         : "Leibniz Institute for<br>Educational Trajectories"
   uri              : # URL
@@ -34,21 +34,16 @@ author:
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=oPB5PqUAAAAJ&hl=de"
+  orcid            : ""
+  LinkedIn         : "https://www.linkedin.com/in/sarah-george-b0746a195/"
+  researchgate     : "https://www.researchgate.net/profile/Sarah-George-39?ev=hdr_xprf"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/george-sarah"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
