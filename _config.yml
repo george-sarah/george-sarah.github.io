@@ -27,10 +27,10 @@ author:
   name             : "Sarah George"
   pronouns         : #"she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Berlin, Germany"
+  employer         : "Leibniz Institute for Educational Trajectories"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "sarah.george@wzb.eu" 
 
   # Academic websites
   academia         : # URL
