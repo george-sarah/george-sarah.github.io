@@ -9,7 +9,7 @@
 
 main:
   - title: "Publications"
-     url: /publications_alternative/  
+    url: /publications_alternative/  
 
   # - title: "Publications"
   #    url: /publications/
