@@ -27,9 +27,7 @@ George, S., Salomo K., Helbig M. (2025): Spatial advantages of highly educated i
 George, S., Salomo, K. (2024): Der Einfluss räumlicher Ungleichheit auf nachhaltige Alltagsmobilität am Beispiel formal Höhergebildeter. In: Canzler, W., Haus, J., Knie, A., Ruhrort, L. (eds), Handbuch Mobilität und Gesellschaft. Springer VS, Wiesbaden. Available at: [https://link.springer.com/rwe/10.1007/978-3-658-37804-2_11-1](https://link.springer.com/rwe/10.1007/978-3-658-37804-2_11-1).
 [:unlock:](https://link.springer.com/rwe/10.1007/978-3-658-37804-2_11-1)
 
-
-Suckow, S. and George, S. (2023): Homeoffice und digitale Mobilität als das neue Normal? – Ergebnisse von Panel-Befragungen zur Mobilität, Mai 2023, Ausgabe 26.05.2023, Bonn. Available at: [https://www.infas.de/wp-content/uploads/2023/06/infas_MobicorReport_WZB_20230601.pdf](https://www.infas.de/wp-content/uploads/2023/06/infas_MobicorReport_WZB_20230601.pdf).
-[:unlock:](https://www.infas.de/wp-content/uploads/2023/06/infas_MobicorReport_WZB_20230601.pdf)
+Suckow, S. and George, S. (2023): Homeoffice und digitale Mobilität als das neue Normal? – Ergebnisse von Panel-Befragungen zur Mobilität, Mai 2023, Ausgabe 26.05.2023, Bonn. 
 
 George, S. and Salomo, K. (2022): Zunahme sozialräumlicher Ungleichheit. Wie Segregation ein Recht auf Stadt verhindert, PLANERIN. [:mailbox:](mailto:sarah.georgeg@wzb.eu)
 
