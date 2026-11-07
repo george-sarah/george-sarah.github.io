@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Sarah George"
 title_separator          : "-"
 name                     : &name "Sarah George"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Sarah George – urban sociologist researching spatial inequality, segregation, and refugee integration in Germany"
 url                      : https://george-sarah.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,24 +26,23 @@ author:
   avatar           : "George_foto.png"
   name             : "Sarah George"
   pronouns         : "she/her"  
-  bio              : " "
+  bio              : "Postdoctoral Researcher in Urban Sociology"
   location         : "Berlin, Germany"
   employer         : "Leibniz Institute for<br>Educational Trajectories"
   uri              : # URL
-  email            : "sarah.george@wzb.eu"
+  email            : "sarah.george@outlook.de"
 
   # Academic websites
   academia         : # URL
   googlescholar    : "https://scholar.google.com/citations?user=oPB5PqUAAAAJ&hl=de"
   orcid            : "https://orcid.org/0000-0001-8867-0137"
-  LinkedIn         : "sarah-george-b0746a195"
   researchgate     : "https://www.researchgate.net/profile/Sarah-George-39?ev=hdr_xprf"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/george-sarah"
+  github           : "george-sarah"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -87,7 +86,7 @@ publication_category:
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:

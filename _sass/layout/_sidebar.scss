@@ -262,3 +262,24 @@
     }
   }
 }
+
+/* No "Follow" button: always show the profile links as a plain list,
+   on small screens too (instead of a dropdown behind the button). */
+.author__urls-wrapper {
+  display: block;
+}
+
+.author__urls {
+  display: block;
+  position: relative;
+  margin: 0.5em 0 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  box-shadow: none;
+
+  &:before,
+  &:after {
+    display: none;
+  }
+}
